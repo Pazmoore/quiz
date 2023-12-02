@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question : "Name the largest deset in thw world?",
+        question : "Name the largest desert in thw world?",
         answers: [
             {text: "Kalahari", correct: false},
             {text: "Gobi", correct: false},
